@@ -1,6 +1,6 @@
 # Falcon Mensajería Femenina — Tablero de Pedidos
 
-> Proyecto parcial — Desarrollo de Aplicaciones Empresariales  
+> Proyecto parcial — Diseño Web Avanzado
 > Unidades Tecnológicas de Santander (UTS)
 
 ---
