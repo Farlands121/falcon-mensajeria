@@ -159,7 +159,7 @@ npm run build
 
 ## 🌐 Despliegue
 
-La aplicación está desplegada en: **[URL de Vercel/Netlify aquí]**
+La aplicación está desplegada en: https://falcon-mensajeria-sigma.vercel.app/
 
 ### Desplegar en Vercel (recomendado)
 1. Ir a [vercel.com](https://vercel.com) e iniciar sesión con GitHub
