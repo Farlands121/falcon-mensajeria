@@ -1,11 +1,11 @@
-# 🦅 Falcon Mensajería Femenina — Tablero de Pedidos
+# Falcon Mensajería Femenina — Tablero de Pedidos
 
 > Proyecto parcial — Desarrollo de Aplicaciones Empresariales  
 > Unidades Tecnológicas de Santander (UTS)
 
 ---
 
-## 📋 Entregable 1 — Análisis del referente
+## 1 — Análisis del referente
 
 ### Referente elegido: **Trello** — [https://trello.com](https://trello.com)
 
@@ -46,7 +46,7 @@ Absolutamente nada. Trello usa **UI optimista**: muestra el cambio de inmediato 
 
 ---
 
-## 🚀 Proyecto: Tablero de Pedidos de Falcon Mensajería
+## Proyecto: Tablero de Pedidos de Falcon Mensajería
 
 ### Contexto y usuario real
 **Negocio:** Falcon Mensajería Femenina — servicio de mensajería operado por mujeres en Bucaramanga, Floridablanca, Piedecuesta y Girón (Santander, Colombia).
@@ -57,7 +57,7 @@ Absolutamente nada. Trello usa **UI optimista**: muestra el cambio de inmediato 
 
 ---
 
-## 🧩 Componente interactivo: Kanban drag & drop (Nivel 3)
+## Componente interactivo: Kanban drag & drop (Nivel 3)
 
 ### Descripción
 Tablero Kanban con tres columnas: **Recibido → En Ruta → Entregado**. Cada pedido es una tarjeta que se puede arrastrar entre columnas.
@@ -121,7 +121,7 @@ Se eligió React por:
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 falcon-mensajeria/
@@ -137,7 +137,7 @@ falcon-mensajeria/
 
 ---
 
-## ⚙️ Instalación y ejecución local
+## Instalación y ejecución local
 
 ```bash
 # 1. Clonar el repositorio
@@ -157,7 +157,7 @@ npm run build
 
 ---
 
-## 🌐 Despliegue
+## Despliegue
 
 La aplicación está desplegada en: https://falcon-mensajeria-sigma.vercel.app/
 
@@ -175,7 +175,7 @@ La aplicación está desplegada en: https://falcon-mensajeria-sigma.vercel.app/
 
 ---
 
-## 🎨 Decisiones de diseño
+## Decisiones de diseño
 
 **Paleta de colores:** Se tomó directamente del branding de Falcon Mensajería:
 - `#E8176F` — Rosa fucsia (color principal de la marca)
@@ -189,10 +189,9 @@ La aplicación está desplegada en: https://falcon-mensajeria-sigma.vercel.app/
 
 ---
 
-## 👥 Autores
+## Autor
 
-- **Juan [Apellido]** — UTS, Ingeniería de Sistemas
-- **Camilo Andrés Rojas Perales** — UTS, Ingeniería de Sistemas
+- **Juan David Rincon Rodriguez** — UTS, Tecnologia en Desarrollo de Sistemas Informaticos
 
-Parcial — Desarrollo de Aplicaciones Empresariales  
-Unidades Tecnológicas de Santander · 2025
+Parcial — Diseño Web Avanzado  
+Unidades Tecnológicas de Santander · 2026
